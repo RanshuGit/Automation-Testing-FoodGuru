@@ -4,4 +4,4 @@ Tested Restaurant website which has login and registration
 1. Selenium WebDriver
 2. Eclipse
 # Inculded:
-Basic Automation Test Script 
+Basic Automation Test Scripts for Login and Registration. 
